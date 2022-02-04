@@ -3,13 +3,18 @@
 Hi there, I really love programming, and I have been programming so since the age of six. I am really intrested in both the topics of machine learning and cyber security.
 
 ---
-**Languages**
+**Proficient Languages**
 
 1) C/C++
-2) Bash
-3) Java
-4) Python
-5) Javascript
+2) C#
+3) Bash
+4) Java
+5) Python
+6) Javascript
+
+**Languages Dabbeled In**
+1) x86 Assembly
+2) Rust
 
 <!--
 **MagnusChase03/MagnusChase03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
