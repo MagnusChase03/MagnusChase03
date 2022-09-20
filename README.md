@@ -1,6 +1,6 @@
 # MagnusChase03
 
-Hi there, I really love programming, and I have been programming so since the age of six. I am really intrested in both the topics of machine learning and cyber security.
+Hi there, I really love programming, and I have been programming so since the age of six. I am really intrested in the topic of machine learning.
 
 ---
 **Proficient Languages**
