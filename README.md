@@ -1,32 +1,29 @@
 # MagnusChase03
 
-Hi there, I really love programming, and I have been programming so since the age of six. I am really intrested in the topic of machine learning.
+Hi, my name is Zachary, and I have been programming computers since the age of six. I have a strong passion in anything and everything related to computer programming. Currently, I am invested in researching more into machine learning algorithms and models.
 
----
-**Proficient Languages**
+<h3> Language & Skills </h3>
 
-1) C/C++
-2) Bash
-3) Java
-4) Python
-5) Javascript
+- ![c-shield]
+- ![cpp-shield]
+- ![java-shield]
+- ![python-shield]
+- ![javascript-shield]
+- ![linux-shield]
+- ![bash-shield]
+- ![git-shield]
+- ![docker-shield]
 
-**Languages Dabbeled In**
-1) x86 Assembly
-2) MIPS Assembly
-3) Rust
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=magnuschase03&show_icons=true&theme=react&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=magnuschase03&theme=react&hide_border=true)
 
-<!--
-**MagnusChase03/MagnusChase03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[c-shield]: https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c
+[cpp-shield]: https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B
+[java-shield]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java
+[python-shield]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python
+[javascript-shield]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript
+[linux-shield]: https://img.shields.io/badge/Unix-20232A?style=for-the-badge&logo=archlinux
+[bash-shield]: https://img.shields.io/badge/Bash-20232A?style=for-the-badge&logo=gnubash
+[git-shield]: https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git
+[docker-shield]: https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker
