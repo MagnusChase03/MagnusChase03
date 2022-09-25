@@ -14,7 +14,7 @@ Hi, my name is Zachary, and I have been programming computers since the age of s
 
 [c-shield]: https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c
 [cpp-shield]: https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B
-[java-shield]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java
+[java-shield]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=coffeescript
 [python-shield]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python
 [javascript-shield]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript
 [linux-shield]: https://img.shields.io/badge/Unix-20232A?style=for-the-badge&logo=archlinux
