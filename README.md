@@ -4,15 +4,9 @@ Hi, my name is Zachary, and I have been programming computers since the age of s
 
 <h3> Language & Skills </h3>
 
-- ![c-shield]
-- ![cpp-shield]
-- ![java-shield]
-- ![python-shield]
-- ![javascript-shield]
-- ![linux-shield]
-- ![bash-shield]
-- ![git-shield]
-- ![docker-shield]
+![c-shield] ![cpp-shield] ![java-shield] ![python-shield] ![javascript-shield]
+
+![linux-shield] ![bash-shield] ![git-shield] ![docker-shield]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=magnuschase03&show_icons=true&theme=react&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=magnuschase03&theme=react&hide_border=true)
