@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=for-the-badge" /><br>
   <img src="https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-brown?logo=redis&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NOSQL-brown?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white&style=for-the-badge" />
 </div>
 <hr>
 
