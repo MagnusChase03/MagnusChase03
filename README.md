@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/Linux-grey?logo=linux&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-brown?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-orange?logo=awslambda&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-brown?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white&style=for-the-badge" />
 </div>
 <hr>
@@ -32,5 +32,6 @@
 ### Learning:
 
 <img src="https://img.shields.io/badge/Azure-blue?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Go-blue?logo=go&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Rust-red?logo=rust&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Machine Learning-grey?logo=probot&logoColor=white&style=for-the-badge" />
