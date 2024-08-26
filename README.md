@@ -1,37 +1,20 @@
-<div align="center">
-  <h1>MagnusChase03</h1>
-</div>
+# MagnusChase03
 
-<div align="center">
-  <img src="https://img.shields.io/badge/x86/x64-grey?logo=amazonec2&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C/C++-grey?logo=c&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-orange?logo=coffeescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Linux-grey?logo=linux&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/AWS-orange?logo=awslambda&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-brown?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white&style=for-the-badge" />
-</div>
-<hr>
+## About Me 🚀
 
-### About Me:
+I am a Linux enthusiast with a strong interest for machine learning and low-level programming. I consistently seek opportunities to deepen my understanding of programming concepts and techniques.
 
-*Just a fellow Linux enjoyer who likes writing neural networks from scratch.*
+## My Skills 🧠
 
-**Instrests**
+![C/C++](https://img.shields.io/badge/-C/C++-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-2F2625?style=flat-square&logo=coffeescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 
-- Low level code and architecture
-- Containers
-- Machine learning
 
-<hr>
-
-### Learning:
-
-<img src="https://img.shields.io/badge/Azure-blue?logo=microsoftazure&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Go-blue?logo=go&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Rust-red?logo=rust&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine Learning-grey?logo=probot&logoColor=white&style=for-the-badge" />
